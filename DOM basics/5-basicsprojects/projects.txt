@@ -1,0 +1,6 @@
+5 projects with DoM (Document Object Model)
+   1. Add Friend Features With Same Button - Completed
+   2. Insta Like Button - complete
+   3. Custom Cursor - complete
+   4. Multiple Image Hovering Animation - Completed
+   5. Insta Story Feature - Completed
